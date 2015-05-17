@@ -20,6 +20,7 @@ group :test do
   gem 'minitest-reporters'
   gem 'mini_backtrace'
   gem 'guard-minitest'
+  gem 'guard'
 end
 
 group :production do
